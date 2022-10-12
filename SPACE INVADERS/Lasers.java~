@@ -1,0 +1,17 @@
+/**
+ * Auto Generated Java Class.
+ */
+
+public class Lasers {
+  
+  /* ADD YOUR CODE HERE */
+  boolean shoot = false;
+  int y_pos = 490;
+  int y_speed;
+  int x_pos;
+  
+  public void shoot(){
+    y_speed = -2;
+    y_pos+=y_speed;
+  }
+}

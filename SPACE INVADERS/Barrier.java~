@@ -1,0 +1,20 @@
+/**
+ * Auto Generated Java Class.
+ */
+import java.awt.Rectangle;
+
+public class Barrier {
+  
+  /* ADD YOUR CODE HERE */
+  int  sideHit1;
+  int sideHit2;
+  int topHit;
+  
+  int side1X;
+  int side2X;
+  int topX;
+  
+  Rectangle side1HitBox;
+  Rectangle topHitBox;
+  Rectangle side2HitBox;
+}
