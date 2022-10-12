@@ -1,0 +1,17 @@
+/**
+ * Auto Generated Java Class.
+ */
+public class Car {
+        
+        /* ADD YOUR CODE HERE */
+        int xPos = 750, yPos = 550;
+        int carCap;
+        boolean direction = true;
+        int speed = -1;
+  
+        public void move(){
+                        xPos= xPos + speed;
+        }
+        
+}
+
